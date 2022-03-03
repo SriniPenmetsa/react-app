@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Welcome React application Deployments for multiple ENVS
+          - MORE Applications Comming Soon for Deployment!..Stay TUNED...
         </p>
         <a
           className="App-link"
